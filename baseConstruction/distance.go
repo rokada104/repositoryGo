@@ -1,4 +1,4 @@
-package main
+package baseconstruction
 
 // func main() {
 // 	// объявите переменные x1, y1, x2, y2 типа float64

@@ -1,8 +1,6 @@
-package main
+package baseconstruction
 
-import (
-	"fmt"
-)
+import "fmt"
 
 func main() {
 	var source string
